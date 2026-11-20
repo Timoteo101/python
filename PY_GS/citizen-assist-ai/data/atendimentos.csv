@@ -1,0 +1,37 @@
+﻿data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos
+2026-11-19T17:10:00,pergunta,Como consultar multas?,5,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Como tirar primeira CNH?,1,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Quero baixar CNH digital,3,True,False,1,0.0
+2026-11-19T17:10:00,pergunta,Como consultar recall?,7,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Quero tirar carteira de motorista,1,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Como pedir passe livre?,9,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Como obter carteira do idoso?,10,True,False,1,0.0
+2026-11-19T17:10:00,pergunta,Como baixar CRLV?,6,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Como funciona vaga especial?,8,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Onde encontro abacaxi roxo?,,False,False,1,0.0
+2026-11-19T17:10:00,pergunta,Qual a idade minima para CNH?,12,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Como renovar CNH vencida?,13,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Onde fazer curso teorico?,2,True,False,1,0.0
+2026-11-19T17:10:00,pergunta,Quero consultar infracoes,5,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Como obter ID jovem?,11,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Onde baixar documento do veiculo?,6,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Como solicitar credencial de estacionamento?,8,True,False,1,0.0
+2026-11-19T17:10:00,pergunta,Como verificar pontos na CNH?,4,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Como consultar recall do carro?,7,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Onde estacionar bicicleta voadora?,,False,False,1,0.0
+2026-11-19T17:10:00,pergunta,Como consultar minhas multas?,5,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Como fazer minha habilitacao?,1,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Como emitir carteira da pessoa idosa?,10,True,False,1,0.0
+2026-11-19T17:10:00,pergunta,Quero passagem interestadual jovem,11,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Como renovar minha CNH?,13,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Como consultar pontuacao da carteira?,4,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Como ter passe livre PCD?,9,True,False,1,0.0
+2026-11-19T17:10:00,pergunta,Como obter licenciamento digital?,6,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Como pedir vaga para idoso?,8,True,True,1,0.0
+2026-11-19T17:10:00,pergunta,Como cadastrar foguete interplanetario?,,False,False,1,0.0
+2026-11-19T20:40:34,categoria,,14,True,True,1,24.4
+2026-11-19T20:44:41,pergunta,como tirar carteira de estudante,14,True,True,1,27.0
+2026-11-19T20:48:15,pergunta,A banana vem da agua?,,False,False,1,73.0
+2026-11-19T20:51:33,pergunta,revisao violeta,,False,False,1,142.2
+2026-11-19T20:52:09,pergunta,revisão violeta,,False,False,1,13.3
+2026-11-19T20:56:22,pergunta,revisao violeta,14,True,True,1,58.2

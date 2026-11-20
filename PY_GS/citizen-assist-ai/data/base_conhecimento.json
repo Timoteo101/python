@@ -1,0 +1,310 @@
+[
+  {
+    "id": 1,
+    "categoria": "Habilitação",
+    "titulo": "Iniciar a primeira habilitação",
+    "palavras_chave": [
+      "primeira habilitacao",
+      "primeira cnh",
+      "tirar carteira de motorista",
+      "tirar habilitacao",
+      "tirar minha habilitacao",
+      "fazer habilitacao",
+      "fazer minha habilitacao"
+    ],
+    "resposta": "Baixe o aplicativo CNH do Brasil, entre com sua conta gov.br e escolha o requerimento da primeira habilitação. Selecione a categoria e o estado. Depois, acompanhe as etapas e consulte o Detran sobre exames, aulas e valores.",
+    "documentos": [
+      "Conta gov.br; confirme os requisitos e documentos com o Detran do seu estado"
+    ],
+    "onde": "Aplicativo CNH do Brasil e Detran do estado",
+    "fonte": "https://www.gov.br/transportes/pt-br/assuntos/noticias/2025/12/cnh-do-brasil-como-solicitar-a-primeira-habilitacao-pelo-aplicativo",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 2,
+    "categoria": "Habilitação",
+    "titulo": "Fazer o curso teórico gratuito para habilitação",
+    "palavras_chave": [
+      "curso teorico",
+      "aulas teoricas",
+      "estudar para habilitacao",
+      "curso gratuito"
+    ],
+    "resposta": "O aplicativo CNH do Brasil oferece curso teórico digital gratuito. Após iniciar o processo, a pessoa pode acessar as aulas e acompanhar seu progresso no aplicativo. Consulte o Detran sobre as demais etapas e custos.",
+    "documentos": [
+      "Conta gov.br e acesso ao aplicativo CNH do Brasil"
+    ],
+    "onde": "Aplicativo CNH do Brasil",
+    "fonte": "https://www.gov.br/transportes/pt-br/assuntos/noticias/2025/12/cnh-do-brasil-como-solicitar-a-primeira-habilitacao-pelo-aplicativo",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 3,
+    "categoria": "Habilitação",
+    "titulo": "Baixar a habilitação digital",
+    "palavras_chave": [
+      "cnh digital",
+      "baixar cnh",
+      "carteira digital de motorista",
+      "habilitacao digital"
+    ],
+    "resposta": "No aplicativo CNH do Brasil, acesse a área de habilitação e procure a opção de baixar a CNH-e. A versão digital tem a mesma validade jurídica da impressa. Confirme as condições de acesso no aplicativo.",
+    "documentos": [
+      "Conta gov.br e habilitação emitida"
+    ],
+    "onde": "Aplicativo CNH do Brasil",
+    "fonte": "https://www.gov.br/transportes/pt-br/assuntos/noticias/2025/12/cnh-do-brasil-como-solicitar-a-primeira-habilitacao-pelo-aplicativo",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 4,
+    "categoria": "Habilitação",
+    "titulo": "Consultar a pontuação da habilitação",
+    "palavras_chave": [
+      "pontos na cnh",
+      "pontos da cnh",
+      "pontuacao da carteira",
+      "pontuacao da habilitacao"
+    ],
+    "resposta": "Consulte a pontuação no Detran responsável pelo registro da sua habilitação. Os procedimentos e canais podem variar conforme o estado.",
+    "documentos": [
+      "Confira os requisitos e documentos no Detran do seu estado"
+    ],
+    "onde": "Portal ou atendimento do Detran do estado",
+    "fonte": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/coordenacao-geral-de-informatizacao-e-estatistica-cgie",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 5,
+    "categoria": "Veículos e infrações",
+    "titulo": "Consultar infrações de trânsito",
+    "palavras_chave": [
+      "consultar multas",
+      "minhas multas",
+      "infracoes de transito",
+      "consultar infracoes"
+    ],
+    "resposta": "No aplicativo CNH do Brasil, entre com gov.br e abra Infrações. É possível consultar por infrator ou por veículo. Também há consulta no Portal de Serviços da Senatran.",
+    "documentos": [
+      "CPF e conta gov.br; consulte as condições de acesso no serviço oficial"
+    ],
+    "onde": "Aplicativo CNH do Brasil ou Portal de Serviços da Senatran",
+    "fonte": "https://www.gov.br/pt-br/servicos/consultar-online-suas-infracoes-de-transito",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 6,
+    "categoria": "Veículos e infrações",
+    "titulo": "Baixar o documento digital do veículo CRLV",
+    "palavras_chave": [
+      "crlv digital",
+      "baixar crlv",
+      "documento do veiculo",
+      "licenciamento digital"
+    ],
+    "resposta": "O proprietário pode acessar o CRLV digital no aplicativo, na área Veículos. Segundo a orientação da Senatran, o licenciamento do ano deve estar quitado. Confira os requisitos atualizados no canal oficial.",
+    "documentos": [
+      "Número do Renavam e código de segurança do CRV, conforme a orientação oficial",
+      "Conta gov.br"
+    ],
+    "onde": "Aplicativo CNH do Brasil, na área Veículos",
+    "fonte": "https://www.gov.br/pt-br/servicos/emitir-o-certificado-de-registro-e-licenciamento-de-veiculo-digital-crlv-e",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 7,
+    "categoria": "Veículos e infrações",
+    "titulo": "Consultar recall do veículo",
+    "palavras_chave": [
+      "consultar recall",
+      "recall do carro",
+      "recall do veiculo",
+      "chamado da montadora"
+    ],
+    "resposta": "Consulte a situação de recall no portal da Senatran com a placa ou o chassi. O serviço também pode ser consultado no aplicativo CNH do Brasil, na área Veículos. Se houver pendência, procure a montadora ou concessionária.",
+    "documentos": [
+      "Placa ou chassi para consulta no portal; no aplicativo, acesso e cadastro do veículo"
+    ],
+    "onde": "Portal de Serviços da Senatran ou aplicativo CNH do Brasil",
+    "fonte": "https://www.mg.gov.br/servico/verificar-situacao-de-recall-do-veiculo",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 8,
+    "categoria": "Transporte e acessibilidade",
+    "titulo": "Emitir credencial digital para vaga especial",
+    "palavras_chave": [
+      "credencial de estacionamento",
+      "vaga de idoso",
+      "vaga para idoso",
+      "vaga para deficiente",
+      "vaga especial"
+    ],
+    "resposta": "Pessoas idosas ou com deficiência que atendam aos critérios podem solicitar a credencial digital no aplicativo ou no portal da Senatran. Confira as condições de emissão e uso no serviço oficial e no órgão de trânsito local.",
+    "documentos": [
+      "CPF e conta gov.br; verificar condições de elegibilidade no canal oficial"
+    ],
+    "onde": "Aplicativo CNH do Brasil ou Portal de Serviços da Senatran",
+    "fonte": "https://www.gov.br/pt-br/servicos/emitir-credencial-de-estacionamento-digital",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 9,
+    "categoria": "Transporte e acessibilidade",
+    "titulo": "Solicitar Passe Livre para pessoa com deficiência",
+    "palavras_chave": [
+      "passe livre",
+      "passe livre pcd",
+      "transporte interestadual deficiente",
+      "passagem para pessoa com deficiencia"
+    ],
+    "resposta": "O Passe Livre Interestadual concede gratuidade no transporte coletivo interestadual à pessoa com deficiência comprovadamente carente. Consulte os critérios e faça a solicitação no sistema oficial; há também orientações para solicitação pelos Correios.",
+    "documentos": [
+      "Conta gov.br e comprovação dos critérios de deficiência e renda conforme o serviço",
+      "Consulte as alternativas aceitas, como BPC ou CadÚnico com os demais requisitos"
+    ],
+    "onde": "Sistema Passe Livre da ANTT ou canal indicado na página oficial",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-passe-livre-interestadual-digital",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 10,
+    "categoria": "Transporte e acessibilidade",
+    "titulo": "Obter a Carteira da Pessoa Idosa para viagem",
+    "palavras_chave": [
+      "carteira da pessoa idosa",
+      "carteira do idoso",
+      "passagem interestadual idoso",
+      "viagem para idoso"
+    ],
+    "resposta": "A carteira é uma das formas de comprovar renda para acessar benefícios no transporte interestadual. Para o direito, a página oficial informa idade a partir de 60 anos e renda individual de até dois salários mínimos. Consulte a emissão no sistema oficial ou procure o CRAS.",
+    "documentos": [
+      "NIS e inscrição no CadÚnico atualizada; para emissão online, conta gov.br",
+      "Confirme os requisitos de identificação no CRAS ou no sistema oficial"
+    ],
+    "onde": "Sistema da Carteira da Pessoa Idosa ou CRAS",
+    "fonte": "https://www.gov.br/pt-br/servicos/adquirir-carteira-do-idoso",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 11,
+    "categoria": "Transporte e acessibilidade",
+    "titulo": "Obter ID Jovem para transporte e meia-entrada",
+    "palavras_chave": [
+      "id jovem",
+      "identidade jovem",
+      "passagem interestadual jovem",
+      "viagem jovem baixa renda",
+      "carteira jovem",
+      "carteirinha jovem",
+      "carteira para jovem",
+      "transporte jovem",
+      "desconto id jovem",
+      "meia entrada id jovem"
+    ],
+    "resposta": "A ID Jovem pode oferecer meia-entrada em eventos e vagas gratuitas ou com desconto no transporte coletivo interestadual, para jovens que atendam aos critérios. Não é necessário ser estudante. Consulte a emissão no canal oficial e procure o CRAS se precisar de orientação sobre o CadÚnico.",
+    "documentos": [
+      "Ter de 15 a 29 anos, renda familiar mensal de até dois salários mínimos e CadÚnico atualizado",
+      "Consulte no CRAS os documentos necessários"
+    ],
+    "onde": "CRAS e canal oficial da ID Jovem",
+    "fonte": "https://www.gov.br/secretariageral/pt-br/juventude/idjovem/id-jovem/",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 12,
+    "categoria": "Habilitação",
+    "titulo": "Idade e requisitos para tirar a primeira CNH",
+    "palavras_chave": [
+      "quantos anos",
+      "qual a idade",
+      "qual idade",
+      "idade para tirar",
+      "idade minima",
+      "anos posso tirar",
+      "menor de idade",
+      "requisitos para tirar",
+      "documentos para tirar",
+      "documentos para primeira",
+      "documentos para cnh",
+      "documentos preciso para tirar",
+      "documentos necessarios para tirar"
+    ],
+    "resposta": "Para tirar a primeira CNH, é preciso ter 18 anos completos, saber ler e escrever, possuir documento de identificação e CPF. Consulte o Detran do seu estado sobre as etapas e outros documentos necessários.",
+    "documentos": [
+      "Documento de identificação e CPF",
+      "Confira outros documentos exigidos pelo Detran do seu estado"
+    ],
+    "onde": "Aplicativo CNH do Brasil e Detran do estado",
+    "fonte": "https://www.gov.br/transportes/pt-br/assuntos/transito/cnh-do-brasil",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 13,
+    "categoria": "Habilitação",
+    "titulo": "Renovar CNH vencida ou próxima do vencimento",
+    "palavras_chave": [
+      "renovar cnh",
+      "renovar minha cnh",
+      "renovacao da cnh",
+      "renovacao de cnh",
+      "cnh esta vencendo",
+      "cnh ta vencendo",
+      "cnh vai vencer",
+      "cnh vencida",
+      "cnh venceu",
+      "cnh vencendo",
+      "carteira vencendo",
+      "carteira esta vencendo",
+      "carteira vencida",
+      "vencimento da cnh"
+    ],
+    "resposta": "Se sua CNH está vencida ou próxima do vencimento, consulte a renovação nos canais do Detran do seu estado e no aplicativo CNH do Brasil. Os exames, taxas e condições dependem do caso. Há regras especiais para alguns vencimentos em 2026: confirme sua situação no Detran antes de dirigir.",
+    "documentos": [
+      "CNH e documento de identificação; confirme a lista e as taxas no Detran",
+      "Conta gov.br para consultar o aplicativo, se utilizar esse canal"
+    ],
+    "onde": "Site ou atendimento do Detran do estado e aplicativo CNH do Brasil",
+    "fonte": "https://www.gov.br/transportes/pt-br/acesso-a-informacao/perguntas-frequentes",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 14,
+    "categoria": "Transporte e acessibilidade",
+    "titulo": "Carteira de estudante e desconto para estudantes",
+    "palavras_chave": [
+      "carteira de estudante",
+      "carteirinha de estudante",
+      "carteira estudantil",
+      "carteirinha estudantil",
+      "identificacao estudantil",
+      "documento do estudante",
+      "desconto de estudante",
+      "desconto para estudante",
+      "desconto para estudantes",
+      "desconto estudante",
+      "desconto estudantil",
+      "meia entrada estudante",
+      "meia entrada para estudante",
+      "meia entrada estudantil",
+      "passe estudantil",
+      "passe de estudante",
+      "transporte para estudante",
+      "transporte estudantil",
+      "passagem de estudante",
+      "passagem para estudante",
+      "onibus para estudante",
+      "onibus estudante",
+      "bilhete estudante",
+      "bilhete estudantil"
+    ],
+    "resposta": "Estudantes podem ter direito à meia-entrada em eventos culturais e esportivos conforme a lei, mediante comprovação. Descontos ou passes para transporte dependem das regras do município, estado e serviço: consulte o órgão de transporte local. A carteira de estudante e a ID Jovem são documentos diferentes.",
+    "documentos": [
+      "Consulte a entidade emissora sobre comprovante de matrícula, identificação e demais documentos",
+      "Para benefícios de transporte, confira os requisitos no órgão de transporte local"
+    ],
+    "onde": "Entidade estudantil, instituição de ensino ou órgão de transporte da sua cidade ou estado",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12933.htm",
+    "verificado_em": "2026-11-19"
+  }
+]
